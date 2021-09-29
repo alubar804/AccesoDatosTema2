@@ -1,0 +1,3 @@
+Contingut per al fitxer.
+Ara ja sense por a caràcters especials:
+ç, à, ú, ...
